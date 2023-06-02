@@ -1,0 +1,75 @@
+# Unified Modelling Language (UML) Types
+
+ Unified Modelling Language (UML) is a standardized visual modelling language used in software engineering to describe, specify, visualise, and document the structure and behaviour of a system. UML provides a variety of diagram types to represent different aspects of a system. Here are some commonly used UML diagram types:
+
+1. Class Diagram: Represents the static structure of a system by showing classes, attributes, operations, relationships, and their associations.
+
+VISUAL PARADIGM, 2019. _UML Class Diagram Tutorial_ Available from: [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
+
+![](../img/RackMultipart20230530-1-j4g4vj_html_cb768a4ffcae7a66.png)
+
+2. Object Diagram: Depicts instances of classes and their relationships at a specific point in time. It shows the objects and their attributes and associations.
+
+LUCIDCHART, 2023. Object Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-object-diagram](https://www.lucidchart.com/pages/uml-object-diagram)
+
+![](RackMultipart20230530-1-j4g4vj_html_7d4f98c9299256ef.png)
+
+3. Use Case Diagram: Illustrates the functional requirements of a system by showing actors, use cases, and their relationships. It represents the interactions between the system and external entities.
+
+ LUCIDCHART, 2019. UML Use Case Diagram Tutorial | Lucidchart [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-use-case-diagram](https://www.lucidchart.com/pages/uml-use-case-diagram)
+
+![](RackMultipart20230530-1-j4g4vj_html_317b5001f2e016dc.png)
+
+4. Sequence Diagram: Shows the interactions between objects in a sequential manner over time. It emphasizes the time ordering of messages exchanged between objects.
+
+ LUCIDCHART, 2019b. UML Sequence Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-sequence-diagram](https://www.lucidchart.com/pages/uml-sequence-diagram)
+
+ ![](RackMultipart20230530-1-j4g4vj_html_2f5661600453fdc7.png)
+
+5. Activity Diagram: Represents the workflow or flow of activities in a system. It describes the dynamic behaviour of a system by showing the control flow, decisions, concurrency, and loops.
+
+ LUCIDCHART, 2023b. UML Activity Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-activity-diagram](https://www.lucidchart.com/pages/uml-activity-diagram)
+
+![](RackMultipart20230530-1-j4g4vj_html_46ca03c6bcf54b92.png)
+
+5. State Machine Diagram: Models the behaviour of an object or a system by representing the states, events, and transitions between states. It describes the possible sequences of states and their responses to events.
+
+ LUCIDCHART, 2023c. State Machine Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-state-machine-diagram](https://www.lucidchart.com/pages/uml-state-machine-diagram)
+
+ ![](RackMultipart20230530-1-j4g4vj_html_b9d92bb0b73f642b.jpg)
+
+5. Component Diagram: Depicts the organization and dependencies of software components in a system. It shows the high-level structure of a system and the interfaces between components.
+
+ LUCIDCHART, 2019c. Component Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-component-diagram](https://www.lucidchart.com/pages/uml-component-diagram)
+
+![](RackMultipart20230530-1-j4g4vj_html_79b22b038399a059.png)
+
+6. Deployment Diagram: Represents the physical deployment of software components on hardware nodes. It illustrates the hardware infrastructure and the distribution of components across nodes.
+
+ LUCIDCHART, 2023d. Deployment Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-deployment-diagram](https://www.lucidchart.com/pages/uml-deployment-diagram)
+
+ ![](RackMultipart20230530-1-j4g4vj_html_bd0b92a7b3c06fb6.jpg)
+
+7. Package Diagram: Shows the organization and dependencies of packages or namespaces in a system. It provides a high-level view of the modular structure of a system.
+
+ LUCIDCHART, 2023e. Package Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-package-diagram](https://www.lucidchart.com/pages/uml-package-diagram)
+
+ ![](RackMultipart20230530-1-j4g4vj_html_9e64ab5fb610a701.png)
+
+8. Communication Diagram: Like a sequence diagram, it focuses on the interactions between objects but emphasizes the relationships between objects rather than the time ordering of messages.
+
+ LUCIDCHART, 2023f. Communication Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-communication-diagram](https://www.lucidchart.com/pages/uml-communication-diagram)
+
+![](RackMultipart20230530-1-j4g4vj_html_9a53a5cc31532292.jpg)
+
+9. Composite Structure Diagram: Describes the internal structure and collaborations of a class or component. It shows the structure and relationships between parts, ports, connectors, and other internal elements.
+
+ LUCIDCHART, 2023g. Composite Structure Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-composite-structure-diagram](https://www.lucidchart.com/pages/uml-composite-structure-diagram)
+
+![](../UML_2023/img/UML-Composite-Structure-Diagram%402x.png)
+
+These are some of the commonly used UML diagram types. Each diagram serves a specific purpose in modelling different aspects of a system.
+
+
+[![](https://mermaid.ink/img/pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0?type=png)](https://mermaid.live/edit#pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0)
+
