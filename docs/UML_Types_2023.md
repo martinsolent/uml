@@ -9,6 +9,7 @@ nav_order: 2
 # Unified Modelling Language (UML) Types
 
  Unified Modelling Language (UML) is a standardized visual modelling language used in software engineering to describe, specify, visualise, and document the structure and behaviour of a system. UML provides a variety of diagram types to represent different aspects of a system. Here are some commonly used UML diagram types:
+ 
 
 ## 1. Class Diagram
 
