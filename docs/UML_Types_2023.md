@@ -82,7 +82,7 @@ Shows the organization and dependencies of packages or namespaces in a system. I
 
  LUCIDCHART, 2023e. Package Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-package-diagram](https://www.lucidchart.com/pages/uml-package-diagram)
 
- ![](RackMultipart20230530-1-j4g4vj_html_9e64ab5fb610a701.png)
+ ![](img/UML-Package-Diagram@2x.png)
 
 ## 8. Communication Diagram
 
@@ -90,7 +90,7 @@ Like a sequence diagram, it focuses on the interactions between objects but emph
 
  LUCIDCHART, 2023f. Communication Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-communication-diagram](https://www.lucidchart.com/pages/uml-communication-diagram)
 
-![](RackMultipart20230530-1-j4g4vj_html_9a53a5cc31532292.jpg)
+![](img/Screenshot_com.png)
 
 ## 9. Composite Structure Diagram
 
@@ -98,10 +98,6 @@ Describes the internal structure and collaborations of a class or component. It 
 
  LUCIDCHART, 2023g. Composite Structure Diagram Tutorial [viewed 30 May 2023]. Available from: [https://www.lucidchart.com/pages/uml-composite-structure-diagram](https://www.lucidchart.com/pages/uml-composite-structure-diagram)
 
-![](../UML_2023/img/UML-Composite-Structure-Diagram%402x.png)
+![](img/UML-Composite-Structure-Diagram@2x.png)
 
-These are some of the commonly used UML diagram types. Each diagram serves a specific purpose in modelling different aspects of a system.
-
-
-[![](https://mermaid.ink/img/pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0?type=png)](https://mermaid.live/edit#pako:eNptkslOwzAQhl8l8glEF5pAl4gLoq3EoafeUCQ0sSeJVS_FC1UpfXec0IYu-OKZb_yPxzPeEaoZkpRQAdZOOZQGZKaisJ4VlyCip-9uN5p6urqmc26ra_qGuYEznEZ3XLkISrzES2e4KqMSFUNzGqwldgEymDe3FwEJDo-wKbspb_cLojZpjrB60UKbNmA3XB6Fwf3wQFdHf3-ar35Ym69b1275F76qOaJrMQU1A_evvmnBX0G51iLi9n3DBWuh8arVkg6RaCRwFibR6DLiKpSYkTSYDAvwwmUkU_VR8E4vt4qS1BmPHeLXLHTkMLtzOGPcaUPSAoQNUGgIfSbpjrjtup56ya0LGalWBS9r7o0IuHJubdN-vw73Su4qn_eoln3LWQXGVZ-TYX8YD8cQJzgcJfCYJIzmg8m4iB8GBRvdD2Ig-32HYHP_4vDF6m3_A4gUwp0)
-
+T
