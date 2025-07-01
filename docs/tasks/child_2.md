@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prompts
+parent: tasks
 nav_order: 3
 ---
 
