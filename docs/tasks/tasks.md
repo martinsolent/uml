@@ -6,9 +6,9 @@ nav_order: 4
 
 {: .no_toc }
 
-# UML Tasks
+# Prompts
 
-**Try these prompts in ChatGTP:**
+**Try these prompts on AI platform:**
 
 Example Prompts:
 
