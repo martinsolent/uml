@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prompts
-nav_order: 4
+nav_order: 2
 ---
 
 {: .no_toc }

@@ -45,31 +45,21 @@ In VS Code intall Mermaid Chart exstension
 
 ![](../img/mermaid_imgs_2025/mermaid_2025_4.png)
 
-Cut and paste into VS Code
+and Markdown Preview Mermaid Support - there are other so try thnem too
 
-Create diagrams in markdown using mermaid fenced code blocks:
+![](../img/mermaid_imgs_2025/mermaid_2025_5.png)
 
-```
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-```
-You can also use ::: blocks:
+**Cut and paste into VS Code**
 
-::: mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-:::
+You will need to create mermaid diagrams in markdown using mermaid fenced code blocks:
 
+
+![](../img/mermaid_imgs_2025/mermaid_2025_6.png)
+
+Switch on preview panel - You can now edit your diagram programmatically
 
 ![](../img/mermaid_imgs_2025/mermaid_2025_3.png)
 
+Completed diagram
 
-
+![](../img/mermaid_imgs_2025/final_dia_mer.png)
