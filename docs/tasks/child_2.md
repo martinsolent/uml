@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mermaid & VS Code
-parent: tasks
+parent: Tasks
 nav_order: 3
 ---
 
