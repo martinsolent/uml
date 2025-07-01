@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompts
+title: Mermaid & VS Code
 parent: tasks
 nav_order: 3
 ---
